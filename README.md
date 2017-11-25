@@ -1,2 +1,2 @@
 # WatchmanClub
-web and app development for kids bible club
+Web and app development for kids bible club
